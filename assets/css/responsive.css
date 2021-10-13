@@ -1,0 +1,193 @@
+.loaded{
+    left: 40%;
+    top: 40%;
+  }
+
+#photography_service h2{
+	margin: 30px 0px 0px 0px;
+}
+
+#photography_service p {
+    padding: 10px;
+}
+
+
+@media screen and (max-width:991px){
+	#services_container .timeline-image i{
+		margin-top: 25px;
+		font-size: 3em;
+	}
+
+	.columns {
+	-moz-column-count: 3;
+	-webkit-column-count: 3;
+	column-count: 3;
+	}
+}
+
+@media screen and (max-width:767px){
+
+	.mastfoot{
+		position: absolute;
+		bottom: 0;
+		text-align: center;
+		width: 100%;
+	}
+
+	.inner{
+		margin: 60px 0px;
+	}
+
+	#jmc{
+		background: #fff !important;
+
+	}
+
+	.jmc_con{
+		padding: 0px 15px;
+		margin-top: 0px;
+	}
+
+	#testimony .testimony-item{
+		margin-bottom: 15px;
+	}
+
+
+	.loaded{
+	    left: 37%;
+	    top: 40%;
+	}
+
+	.welcome_content,#services,#gallery-portfolio,#contact_us{
+    	padding: 20px 0px;
+	}
+
+	
+	.header_contact_info p{
+	font-size: 9px;
+	}
+
+	#welcome{
+	background-position: left;
+	}
+
+	.contact_form .form-control{
+		line-height: 1.42857143;
+	}
+
+	.contact_area{
+		margin-bottom: 50px;
+	}
+
+	#contact_container{
+	background-position: center center;
+	background-attachment: scroll;
+	}
+
+	.area{
+	    padding: 20px 40px 11px 40px;
+	}
+
+	.contact_area{
+	    padding: 20px 40px 47px 40px;
+	}
+
+	#services_container .timeline-image i{
+		margin-top: 22px;
+		font-size: 2em;
+	}
+
+
+	#jmc p {
+	    text-align: left;
+	    
+	}
+
+
+	#jmc{
+		margin-bottom: -25px;
+	}
+
+	.home,.vid_services,#contact_section{
+		background-attachment:scroll;
+		background-position: center;
+	}
+	#services_container{
+		background-attachment:scroll;
+		background-position: 27%;
+	}
+
+	.columns {
+	-moz-column-count: 2;
+	-webkit-column-count: 2;
+	column-count: 2;
+	}
+}
+
+
+@media screen and (max-width:425px){
+
+	.welcome_content{
+		margin: 50px 0px 25px 0px;
+	}
+
+	.inner{
+		margin: 20px 0px;
+	}
+
+	.content {
+	    top: 68%;
+ 	}
+
+ 	.jmc_title {
+	    padding: 0px;
+	    background-attachment: fixed;
+	}
+
+	.loaded{
+	    left: 30%;
+	    top: 40%;
+	  }
+
+	h2{
+		font-size: 38px;
+	}
+
+	.header_contact_info p{
+	font-size: 6px;
+	}
+
+	.tittle h1{
+		font-size: 28px;
+	}
+
+	.tittle h3{
+		font-size: 18px;
+	}
+
+		.content {
+	    top: 30%;
+	}
+}
+
+@media screen and (max-width:320px){
+	.loaded{
+	    left: 27%;
+	    top: 40%;
+	  }
+
+	.welcome_content{
+		margin: 0px 0px 0px 0px;
+	}
+
+	#navigation{
+		padding: 0px;
+	}
+
+	.content {
+	    top: 10%;
+	}
+
+
+
+}
